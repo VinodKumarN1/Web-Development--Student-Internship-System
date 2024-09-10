@@ -71,7 +71,7 @@ This has kept the cost of learning Web development to a minimum. Knowledge of Hy
 	PDO – PHP Data Object.
 
 SNAPSHOTS:
-
+![image](img/Screenshot_20240910_173853.png)
 ![image](https://github.com/VinodKumarN1/Web-Development--Student-Internship-System/img/Screenshot_20240910_173918.png")
 ![image](https://github.com/VinodKumarN1/Web-Development--Student-Internship-System/img/Screenshot_20240910_173912.png")
 ![image](https://github.com/VinodKumarN1/Web-Development--Student-Internship-System/img/Screenshot_20240910_173905.png")
