@@ -75,5 +75,4 @@ SNAPSHOTS:
 ![image](img/Screenshot_20240910_173918.png)
 ![image](img/Screenshot_20240910_173912.png)
 ![image](img/Screenshot_20240910_173905.png)
-![image](img/Screenshot_20240910_173859.png)
 
