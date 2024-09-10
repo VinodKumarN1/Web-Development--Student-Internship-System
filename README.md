@@ -69,3 +69,7 @@ This has kept the cost of learning Web development to a minimum. Knowledge of Hy
 	PHP 7 removes the MySQL extension, leaving only mysqli and PDO.
 	Mysqli – MySQL improved.
 	PDO – PHP Data Object.
+
+SNAPSHOTS:
+
+![image](https://github.com/VinodKumarN1/Web-Development--Student-Internship-System/assets)
